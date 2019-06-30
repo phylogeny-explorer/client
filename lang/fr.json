@@ -1,0 +1,7 @@
+{
+  "components": {
+    "HelloWorld": {
+      "hello": "Bonjour tout le monde!"
+    }
+  }
+}
