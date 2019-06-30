@@ -1,7 +1,50 @@
 {
-  "components": {
-    "HelloWorld": {
-      "hello": "Bonjour tout le monde!"
+    "Search for Clade": "",
+    "as applied to search api": {
+        "Depth": ""
+    },
+    "Lookup In Wikipedia": "",
+    "Button in view clade mode": {
+        "Return to tree": ""
+    },
+    "Login to the Explorer\n": "",
+    "Enter username and password to log in:": "",
+    "Register": "",
+    "You must register to use the Phylogeny Explorer": "",
+    "Forgot your password? Click here.": "",
+    "a clade": {
+        "Update": "",
+        "Destroy": "",
+        "Evolve": ""
+    },
+    "of a clade": {
+        "Alternative names": "",
+        "Status": ""
+    },
+    "Extant": "",
+    "Extinct": "",
+    "Attributions": "",
+    "Clade Images\n": "",
+    "Back to view": "",
+    "Create": "",
+    "Add attribution": "",
+    "Cancel": "",
+    "Profile": "",
+    "Settings": "",
+    "Your Profile\n": "",
+    "Your Settings": "",
+    "for a clade": {
+        "Set New Parent\n": ""
+    },
+    "Uploaded Images": "",
+    "No description provided.": "",
+    "landing page": {
+        "EXPLORE THE BEAUTY OF EVOLUTION\n": "",
+        "a navigable, online encyclopedia of the entire evolutionary tree of life": "",
+        "Phylogeny concerns the evolutionary history of life, how organisms diverge and evolve from each other, and the relationships between them.": "",
+        "The Phylogeny Explorer is a navigable, online encyclopaedia of the entire evolutionary tree of life. Navigate the dendrogram from root to leaves, and see ancestral lineages branching like a tree. Search for specific taxa or species, and interact with the nodes at each branch to find out more information, including images, parent and child clades and reference material.": "",
+        "Aron Ra is the creator and founder of the Phylogeny Explorer Project. His many notable achievements include science educator, author and international speaker.\n\n\nBuilding the Phylogeny Explorer is a massive project which is fully international, non-profit and free for all. It is also volunteer led, comprising many skills, nationalities and walks of life, all bringing collaboration and something unique to the table.": "",
+        "Please Donate to show your support and help fund this project.\n\n\nThe Phylogeny Explorer Project is a non-profit, educational foundation, dedicated to housing current, quality biological research and peer reviewed work. It will set academic standards whilst providing a unique and better understanding of biological evolution.\n\n\nWith education for all at the heart of the project, the ultimate goal is to reach a full and inclusive audience, with multiple languages, wide ranging Special Educational Needs and Disability facilities, and optional dashboard interfaces for a range of users.": "",
+        "If you are interested in working on the Phylogeny Explorer Project and becoming a part of this extraordinary contribution to science, volunteer!": ""
     }
-  }
 }
